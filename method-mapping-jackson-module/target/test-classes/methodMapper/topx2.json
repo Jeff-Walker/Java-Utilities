@@ -1,0 +1,14 @@
+[
+  {
+    "bigDec": 1.1,
+    "integer": 1,
+    "flt": 1.11,
+    "string": "str1"
+  },
+  {
+    "bigDec": 2.2,
+    "integer": 2,
+    "flt": 2.22,
+    "string": "str2"
+  }
+]

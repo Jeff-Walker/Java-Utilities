@@ -1,0 +1,16 @@
+[
+  {
+    "string": "str1",
+    "@addMid": [
+      {
+        "integer": 11,
+        "string": "mid text 11",
+        "@addBottom": [
+          {
+            "integer": 111
+          }
+        ]
+      }
+    ]
+  }
+]

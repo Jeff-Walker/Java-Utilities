@@ -1,0 +1,13 @@
+[
+  {
+    "mids": [
+      {
+        "integer": 11,
+        "string": "mid text 11"
+      },
+      {
+        "string": "mid text 12"
+      }
+    ]
+  }
+]

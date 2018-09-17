@@ -1,0 +1,37 @@
+[
+  {
+    "string": "str1",
+    "@addMid": [
+      {
+        "integer": 11,
+        "string": "mid text 11",
+        "@addBottom": [
+          {
+            "integer": 111
+          },
+          {
+            "integer": 122
+          },
+          {
+            "integer": 133
+          }
+        ]
+      },
+      {
+        "integer": 22,
+        "string": "mid text 22",
+        "@addBottom": [
+          {
+            "integer": 211
+          },
+          {
+            "integer": 222
+          },
+          {
+            "integer": 233
+          }
+        ]
+      }
+    ]
+  }
+]

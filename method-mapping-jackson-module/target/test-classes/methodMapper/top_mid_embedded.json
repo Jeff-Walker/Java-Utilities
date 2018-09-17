@@ -1,0 +1,11 @@
+[
+  {
+    "@addMid": [
+      {
+        "@setEmbeddedSingle": {
+          "name": "embedded 11.1"
+        }
+      }
+    ]
+  }
+]
